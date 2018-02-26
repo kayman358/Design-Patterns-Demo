@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/strategy/OperationAdd.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/facade/Rectangle.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/facade/Circle.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/facade/Square.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/strategy/OperationMultiply.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/factory/inter/Developer.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/strategy/Context.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/composite/CompositeDemo.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/composite/Employee.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/strategy/StrategyPatternDemo.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/strategy/OperationSubtract.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/prototype/Prototype.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/strategy/Strategy.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/prototype/BookShop.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/prototype/Book.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/factory/inter/Interview.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/factory/inter/HRM.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/facade/Shape.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/facade/Facade.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/facade/FacadeImpl.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/factory/impl/FactoryClass.java</file>
+            <file>file:/C:/Users/Kolade/Documents/NetBeansProjects/DesignPatternsDemo/src/java/com/factory/impl/MainImplementation.java</file>
+        </group>
+    </open-files>
+</project-private>
